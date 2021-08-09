@@ -25,6 +25,10 @@ Things you may want to cover:
 
 # User Stories
 
+> As a user   
+> So that I can view my collection    
+> I would like to be able to sign up and log into my account
+
 > As a user    
 > So that I can keep track of my dice collection    
 > I would like to be able to see a list of my sets of dice
